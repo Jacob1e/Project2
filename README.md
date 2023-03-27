@@ -1,2 +1,2 @@
-# Project2
-port scanner 2.0 with improvements
+# IT3038c Project 2
+port scanner with improvements
